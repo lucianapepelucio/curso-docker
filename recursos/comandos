@@ -14,7 +14,7 @@ docker system info
 docker image pull nginx:1.22.0
 docker image pull nginx:1.23.1
 docker image pull nginx:latest
-docker image pull busybox
+docker image pull busybox 
 
 # docker image ls
 
